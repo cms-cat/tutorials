@@ -1,0 +1,11 @@
+name: mplhep_env
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - root
+  - pip:
+    - hist
+    - uproot
+    - numpy
+    - scipy
