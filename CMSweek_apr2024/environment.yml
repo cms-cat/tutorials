@@ -9,3 +9,4 @@ dependencies:
     - uproot
     - numpy
     - scipy
+    - pandas
